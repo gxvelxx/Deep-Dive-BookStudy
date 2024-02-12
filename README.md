@@ -28,7 +28,7 @@
 
 | 　　\　 Day<br>이름　\                                   |   0   |
 | :------------------------------------------------------- | :---: |
-| <center>[김태양](https://github.com/gxvelxx)</center>    | - []  |
+| <center>[김태양](https://github.com/gxvelxx)</center>    | - [ ] |
 | <center>[장유리](https://github.com/zzannorita)</center> | - [x] |
 |                                                          |
 
